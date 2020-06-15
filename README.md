@@ -4,10 +4,11 @@ Python based Twitter Webscrapper with no official time limit
 Salient features:
 Program currently -
   1. Calculates and can also print Tweets with a "keyword" for a specific period in a specific region
-  2. Sleeps to avoid 'Error 429: Too Many Requests'
-  3. Bypasses Twitter official time limit of 7 days
-  4. Plots the results using Matplotlib.pyplot
-  5. Saves the file as csv
+  2. Doesn't require Twitter Official Access Token or anything
+  3. Sleeps to avoid 'Error 429: Too Many Requests'
+  4. Bypasses Twitter official time limit of 7 days
+  5. Plots the results using Matplotlib.pyplot
+  6. Saves the file as csv
 
 Program can also -
   1. Control the maximum number of tweets
