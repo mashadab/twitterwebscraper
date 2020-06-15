@@ -12,7 +12,7 @@ Program currently -
 
 Program can also -
   1. Control the maximum number of tweets
-  2. Constrains to a specific twitter profile
+  2. Constrain to a specific twitter profile
   and a lot more. Please refer to Source codes of Get Old Tweets for Python 3: 
 ## > https://github.com/Jefferson-Henrique/GetOldTweets-python
 ## > https://pypi.org/project/GetOldTweets3/
