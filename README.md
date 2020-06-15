@@ -13,15 +13,20 @@ Program can also -
   1. Control the maximum number of tweets
   2. Constrains to a specific twitter profile
   and a lot more. Please refer to Source codes of Get Old Tweets for Python 3: 
-# > https://github.com/Jefferson-Henrique/GetOldTweets-python
-# > https://pypi.org/project/GetOldTweets3/
+## > https://github.com/Jefferson-Henrique/GetOldTweets-python
+## > https://pypi.org/project/GetOldTweets3/
   
 ## Libraries used   
 GetOldTweets3     #this library doesn't require Twitter official access token and has no official twitter time limit (7 days)
+
 datetime          #for time stamping
+
 matplotlib.pyplot #for plotting
+
 matplotlib.dates  #for conversion of dates to required format
+
 time              #for sleeping, if the HTTP requests are above the limit
+
 csv               #for saving as csv file
 
-# Comments are given in the code
+## Comments are given in the code
