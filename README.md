@@ -5,7 +5,8 @@ Python based Twitter Webscrapper with no official time limit
 <img src="./BLM_05012020_Minnesota.png" height="370">
 </p>
 
-Salient features:
+# Salient features:
+
 Program currently -
   1. Calculates and can also print Tweets with a "keyword" for a specific period in a specific region
   2. Doesn't require Twitter Official Access Token or anything
